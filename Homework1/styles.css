@@ -1,0 +1,13 @@
+.main-div{
+    color: #000000;
+    background-color: "#F5F5F5";
+    margin-top: 42px;
+    margin-bottom: 51px;
+    margin-left: 37px;
+    margin-right: 29;
+    max-width: 934px;
+    max-height: 1670px;
+    font-family: 'Inter';
+    font-style: "normal";
+    position: "absolute";
+}
